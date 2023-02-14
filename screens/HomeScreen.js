@@ -71,11 +71,11 @@ export default function HomeScreen({ }) {
                   description="Paid placements from our partners"
               />
               <FeaturedRow
-                  title="Featured"
+                  title="Tasty Discounts"
                   description="Paid placements from our partners"
               />
               <FeaturedRow
-                  title="Featured"
+                  title="Offers near you"
                   description="Paid placements from our partners"
               />
           </ScrollView>

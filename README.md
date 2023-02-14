@@ -59,6 +59,7 @@ The following tools were used in this project:
 - [Expo](https://expo.io/)
 - [React Native](https://reactnative.dev/)
 - [Node.js](https://nodejs.org/)
+- [Tailwind CSS - React Native](https://www.nativewind.dev/quick-starts/react-native-cli)
 
 ## :white_check_mark: Requirements
 
